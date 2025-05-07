@@ -1,4 +1,4 @@
-Privacy Policy
+#Privacy Policy
 
 Introduction
 This Privacy Policy helps you understand what information we collect at MG EASY OFFICE, how we use it, and what choices you have. MG EASY OFFICE is developed and provided by Madani Group IT Solution as a free app to assist with internal staff attendance management.
